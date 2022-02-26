@@ -1,7 +1,8 @@
 # Icosical
 ***
 
-##|〡Visit [Discord Server 😎](https://discord.gg/aaRpjjrcdj) 〡|〡 Visit [Instagram](https://instagram.com/iconicaal)〡|</b>
+##|〡Visit [Discord Server 😎](https://discord.gg/aaRpjjrcdj) 〡|〡 Visit [Instagram](https://instagram.com/iconicaal)〡|
+</b>
 <a href="https://discord.gg/aaRpjjrcdj"><img src="https://discord.com/api/guilds/484502176245350410/widget.png?style=banner2"></a>
 
 ***
