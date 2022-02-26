@@ -20,3 +20,5 @@
 # Credits
 
 > If consider using this Bot, make sure to credit me!
+
+# If you want to self host it DM me and I will further assist you
