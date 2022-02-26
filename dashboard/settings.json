@@ -1,0 +1,14 @@
+{
+    "website" : {
+      "support": "https://discord.gg/5ggAPb2ECV",
+      "domain": "https://Icosical.xyz"
+    },
+    "config": {
+        "http": {
+          "port": 80
+        },
+        "callback": "https://Icosical.xyz/callback",
+        "clientID": "935830787973079050",
+        "secret": "None"
+    }
+  }
