@@ -1,13 +1,14 @@
 # Icosical
 ***
 
-##|〡Visit [Discord Server 😎](https://discord.gg/aaRpjjrcdj) 〡|〡 Visit [Instagram](https://instagram.com/iconicaal)〡|
+## |〡Visit [Discord Server 😎](https://discord.gg/aaRpjjrcdj) 〡|〡 Visit [Instagram](https://instagram.com/iconicaal)〡|
 
 <a href="https://discord.gg/aaRpjjrcdj"><img src="https://discord.com/api/guilds/484502176245350410/widget.png?style=banner2"></a>
 
 ***
 
 ## SUPPORT ME AND MY FUTURE PROJECTS PWEASE 
+<a href="https://www.buymeacoffee.com/iconical"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=iconical&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 > You can always Support me by inviting one of my **own Discord Bots**
 
@@ -17,5 +18,3 @@
 # Credits
 
 > If consider using this Bot, make sure to credit me!
-
-<a href="https://www.buymeacoffee.com/iconical"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=iconical&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
