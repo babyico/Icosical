@@ -12,9 +12,9 @@
 
 > You can always Support me by inviting one of my **own Discord Bots** by click on the images below for each bot
 
-### Icosical, A Music Bot with Free Filters ⬇⬇⬇⬇⬇⬇
+### Icosical, A Music Bot with Free Filters ⬇⬇⬇Click on the picture to invite⬇⬇⬇
 [![Music Bot with Free Filters](https://cdn.discordapp.com/attachments/800717170152964127/946991344004517898/pika-2022-02-26T04_45_18.933Z.png)](https://discord.com/api/oauth2/authorize?client_id=935830787973079050&permissions=8&scope=bot%20applications.commands)
-### IcoSan, Coming Soon Multipurpose Bot ⬇⬇⬇⬇⬇⬇
+### IcoSan, Coming Soon Multipurpose Bot ☢☢☢Coming Soon☢☢☢
 [![Coming Soon Multipurpose Bot](https://cdn.discordapp.com/attachments/800717170152964127/946991343685763112/pika-2022-02-26T04_45_06.166Z.png)](none)
 
 # Credits
